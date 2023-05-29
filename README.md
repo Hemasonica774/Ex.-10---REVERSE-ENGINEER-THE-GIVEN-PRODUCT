@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Hemasonica774/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118361409/71548942-2578-47cf-8b7a-123663d74980)
 
 ### Output:
+![Screenshot 2023-05-29 085659](https://github.com/Hemasonica774/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118361409/4eb0fc1f-d35c-4ac4-97c4-00ced2e164e0)
 
 
-### Name:
-### Register Number:
+### Name:P.Hemasonica
+### Register Number:212222230112
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
